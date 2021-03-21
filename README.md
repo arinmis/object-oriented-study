@@ -1,3 +1,3 @@
 # object-oriented-study
-- Programming problem solution of "Introduction to Java programming"(OOP chapters)\n
-**Note:** Since I didn't know how to use git/github while solving those problems, some of my solution are gone, I couldn't found them. Please correct me if existing solutions are wrong. 
+- Programming problem solution of "Introduction to Java programming"(OOP chapters)
+- **Note:** Since I didn't know how to use git/github while solving those problems, some of my solution are gone, I couldn't found them. Please correct me if existing solutions are wrong. 
