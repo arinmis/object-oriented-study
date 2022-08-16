@@ -7,4 +7,4 @@
 ![oop-stats](https://user-images.githubusercontent.com/56651041/112359525-67fc0800-8ce2-11eb-801a-797be6588aff.PNG)
 
 
-- **Note:** Since I didn't know how to use git/github while I were solving those problems, some of my solutions were lost. Please correct me if existing solutions are wrong. 
+- **Note:** Some of my solutions were lost since I didn't know how to use git/GitHub while solving those problems. Please correct me if existing solutions are wrong.
